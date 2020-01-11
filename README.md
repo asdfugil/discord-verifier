@@ -1,7 +1,7 @@
 # discord-verifier
 discord verification system for discord.js
 
-To install:```npm i discord-verifier```
+
 
 ## Example
 
