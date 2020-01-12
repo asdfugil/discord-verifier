@@ -1,25 +1,41 @@
 {
-  "name": "discord-verifier",
-  "version": "1.0.0",
-  "description": "A simple verification script used in FΛV Community Discord Server | Made with discord.js",
-  "author": "Favian Rizqulloh",
-  "contributors": ["Nick Chan#0001"],
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "discord.js": "^11.5.1"
-  },
-  "engines": {
-    "node": "10.15.3"
-  },
-  "license": "MIT",
-  "keywords": [
-    "node",
-    "discord",
-    "discord-bot",
-    "discord-verifier-bot",
-    "discord.js"
-  ]
+	"name": "discord-verifier",
+	"version": "2.0.0-build2",
+	"description": "A simple verification module | Made with discord.js",
+	"author": {
+		"name": "Favian Rizqulloh"
+	},
+	"contributors": [
+		{
+			"name": "Nick Chan#0001",
+			"email": "towinchenmi@gmail.com"
+		}
+	],
+	"maintainers": [
+		{
+			"name": "Nick Chan#0001",
+			"email": "towinchenmi@gmail.com"
+		}
+	],
+	"main": "index.js",
+	"homepage": "https://github.com/Assfugil/discord-verifier/blob/master/README.md",
+	"bugs": "https://github.com/Assfugil/discord-verifier/issues",
+	"scripts": {
+		"test": "node index.js"
+	},
+	"dependencies": {
+		"discord.js": "^11.5.1"
+	},
+	"engines": {
+		"node": ">=10"
+	},
+	"license": "MIT",
+	"keywords": [
+		"node",
+		"discord",
+		"discord-bot",
+		"discord-verifier-bot",
+		"discord.js",
+		"discord-reaction-roles"
+	]
 }
